@@ -63,11 +63,12 @@ p {
     font-weight: 900;
     margin-top: 0;
     margin-bottom: 10px;
-
-    .degrees {
-      font-size: 18px;
-      display: block;
-    }
+  }
+  .degrees {
+    font-size: 18px;
+    font-weight: 900;
+    margin-top: 0;
+    margin-bottom: 10px;
   }
   .tagline {
     color: rgba(256, 256, 256, 0.6);
@@ -88,7 +89,12 @@ p {
     border-radius: 100%;
     box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
   }
+  .contact-container {
+    text-align: center;
+  }
   .contact-list {
+    display: inline-block;
+    text-align: left;
     .fas,
     .fab,
     .far {

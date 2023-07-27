@@ -1,40 +1,37 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
-#
-
 sidebar:
     position: right # position of the sidebar : left or right
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Michael J. Waddell <span class="degrees">M.S., C.S.S.L.P.</span>
-    tagline: Secure Software Architect and Data Scientist
+    name: Michael J. Waddell
+    degrees: M.S., C.S.S.L.P.
+    tagline: Secure Software Architect<br />and Data Scientist
     avatar: profile.png
 
     # Sidebar links
-    email: 
+    email:
     phone: 
-    timezone: 
-    citizenship: 
-    website: #do not add http://
+    timezone: Chicago, IL
+    citizenship: # U.S.A.
+    website: # waddellnet.com
     linkedin: mwaddell
     xing: 
     github: mwaddell
-    telegram: # add your nickname without '@' sign
+    telegram: mwaddell
     gitlab:
-    bitbucket:
-    twitter: 
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    bitbucket: 
+    twitter: # "@mwaddell"
+    stack-overflow: # 1238190/michael-waddell
     codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf:
+    goodreads: # 2861448-michael-waddell
+    pdf: # TODO: Add github action to create PDF of /print
 
 career-profile:
-    title: About Me
+    title: Consulting Services
     summary: |
-      I design secure software architectures and use machine learning to model and analyze large and complex data sets. My open-source work focuses on developing and advancing open-source technologies that support the secure software lifecycle.
+      I design secure software architectures and use machine learning to model and analyze large and complex data sets. 
       
-      **Consulting Services:**
+      **Services Include:**
       - Machine Learning and Statistical Analysis
       - Data Visualization
       - Scientific Article Writing and Editing
@@ -51,158 +48,135 @@ education:
     info:
       - degree: M.S. in Computer Science
         university: University of Wisconsin-Madison
-        time: 2011 - 2012
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-experiences:
-    title: Experiences
-    info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+        time: 2004
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          - Academic Focus: Artificial Intelligence, Computational Biology, Biomedical Statistics, and Database Systems
+          - Research Focus: Analyzing biological data using statistical and machine learning algorithms and improving the quality and efficiency of the interactions between the biological scientist and the software tool
+          - Advisor: Dr. C. David Page
+
+      - degree: B.S. in Mathematics, Biochemistry, and Molecular Biology
+        university: University of Wisconsin-Madison
+        time: 2000
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          - Research Focus: Using computational and quantum chemical approaches to understand the structural and energetic origins of the high stability of collagen molecules;
+          - Advisor: Dr. Ronald T. Raines
+
+#experiences:
+#    title: Experiences
+#    info:
+#      - role: Lead Developer
+#        time: 2015 - Present
+#        company: Startup Hubs, San Francisco
+#        details: |
+#          Describe your role here lorem ipsum dolor sit amet, consectetuer
+#          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+#          Cum sociis natoque penatibus et magnis dis parturient montes,
+#          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+#          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+#          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+#          error sit voluptatem accusantium doloremque laudantium, totam rem
+#          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+#          architecto beatae vitae dicta sunt explicabo.
+#            - Bullet point
+#            - Bullet point
+#      - role: Senior Software Engineer
+#        time: 2014 - 2015
+#        company: Google, London
+#        details: |
+#          Describe your role here lorem ipsum dolor sit amet, consectetuer
+#          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+#          Cum sociis natoque penatibus et magnis dis parturient montes,
+#          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+#          pellentesque eu, pretium quis, sem.
+#            - Bullet point
+#            - Bullet point
+#      - role: UI Developer
+#        time: 2012 - 2014
+#        company: Amazon, London
+#        details: |
+#          Describe your role here lorem ipsum dolor sit amet, consectetuer
+#          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+#          Cum sociis natoque penatibus et magnis dis parturient montes,
+#          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+#          pellentesque eu, pretium quis, sem.
+#            - Bullet point
+#            - Bullet point
 
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+        - name: Certified Secure Software Lifecycle Professional
+          start: 2021
+          end: present
+          organization: (ISC)<sup>2</sup>
+          credentialurl: isc2.org/Certifications/CSSLP
+          credentialname: CSSLP
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur 
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh. 
-            Aenean fermentum, felis vulputate suscipit accumsan, 
-            sem enim bibendum augue, sed convallis arcu lacus at dui. 
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
-            Praesent venenatis erat non augue suscipit consectetur. 
-            
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus 
-            fringilla vel. Ut euismod, sem sed vulputate venenatis, 
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at. 
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur 
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh. 
-            Aenean fermentum, felis vulputate suscipit accumsan, 
-            sem enim bibendum augue, sed convallis arcu lacus at dui. 
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. 
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim. 
-            Praesent venenatis erat non augue suscipit consectetur. 
+            The vendor-neutral CSSLP credential validates that software professionals have the expertise to incorporate security practices – authentication, authorization and auditing – into each phase of the software development lifecycle, from software design and implementation to testing and deployment. CSSLP confirms one’s knowledge to reduce loss of revenue and reputation due to a breach resulting from insecure software, while enhancing the credibility of an organization and its development team.
         
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#projects:
+#    title: Projects
+#    intro: >
+#      You can list your side projects in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#    assignments:
+#      - title: Velocity
+#        link: "#hook"
+#        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+#
+#      - title: DevStudio
+#        link: "#"
+#        tagline: "A responsive website template designed to help web developers/designers market their services."
+#
+#      - title: Tempo
+#        link: "#"
+#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#
+#      - title: Atom
+#        link: "#"
+#        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#
+#      - title: Delta
+#        link: "#"
+#        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
     title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    intro: My open-source work focuses on developing and advancing open-source technologies that support the secure software lifecycle.
+#    contributions:
+#      - title: Tempo
+#        link: "#"
+#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#
+#      - title: Atom
+#        link: "#"
+#        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#
+#      - title: Delta
+#        link: "#"
+#        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#    intro: |
+#      You can list your publications in this section. Lorem ipsum dolor sit
+#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#      bibendum fringilla a eu lectus.
+#    papers:
+#      - title: The Art of Computer Programming
+#        link: "#"
+#        authors: Donald E. Knuth
+#        conference: Addison-Wesley, 1968
+#
+#      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#        link: "#"
+#        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#
+#      - title: A syntax directed compiler for Algol 60
+#        link: "#"
+#        authors: Edgar T. Irons
+#        conference: "Comm. ACM 4 (1961), 51–55"
 
 footer: 
