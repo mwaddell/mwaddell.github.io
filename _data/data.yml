@@ -26,30 +26,10 @@ sidebar:
     goodreads: # 2861448-michael-waddell
     pdf: # TODO: Add github action to create PDF of /print
 
-#    languages:
-#      title: Languages
-#      info:
-#        - idiom: English
-#          level: Native
-#
-#        - idiom: Spanish
-#          level: Professional
-
-#    interests:
-#      title: Interests
-#      info:
-#        - item: Reading
-#          link:
-#
-#        - item: Genealogy
-#          link:
-
 career-profile:
     title: Consulting Services
     summary: |
-      I design secure software architectures and use machine learning to model and analyze large and complex data sets. 
-      
-      **Services Include:**
+      I design secure software architectures and use machine learning to model and analyze large and complex data sets. I provide the following consulting services both as an independent contractor and through <a href="https://www.pangaeatech.com">Pangaea Information Technologies, Ltd.</a> (depending on the size of the project):
       - Machine Learning and Statistical Analysis
       - Data Visualization
       - Scientific Article Writing and Editing
@@ -79,13 +59,15 @@ education:
 
 experiences:
     title: Experiences
-    intro: My professional work focuses on developing AI-based systems for national defense, homeland security and public health surveillance.
+#    intro: My professional work focuses on developing AI-based systems for national defense, homeland security and public health surveillance.
     info:
       - role: Senior Software Architect, Director of Information Technology
         time: 2006 - present
         company: Pangaea Information Technologies, Ltd.
         companyurl: pangaeatech.com
-        details: 
+        manager: Mikl&oacute;s Ferenczy
+        details: |
+          Designing software architectures and leading development teams in the creation of custom software to leverage geospatial analysis, artificial intelligence, and statistical analysis of large data warehouses. Managing the internal IT infrastructure supporting development, build, integration, staging and production environments.  
       - role: Data &amp; Impact Advisory Panel
         time: 2013 - 2018
         company: Ingenuity Incorporated
@@ -94,12 +76,120 @@ experiences:
           Ingenuity's mission is to leverage the vibrant communities, rich knowledge and significant resources of Chicago to ensure the arts are a critical component of every public school student’s education.
 
           The Data &amp; Impact Advisory Panel develops strategies to create innovative, aligned, and streamlined data collection and tracking solutions in the arts education sector to better inform and drive expanded arts programs in schools across Chicago.
+#      - role: Guest Lecturer
+#        time: April 24, 2013
+#        company: Rush University Medical School
+#        companyurl: rushu.rush.edu/rush-medical-college
+#        manager: Dr. Shital Shah
+#        details: |
+#          HSM-590 Topics in Health Systems Management
+#  
+#          Provides students with the opportunity for in-depth study of specialized,
+#          current issues in health care management or specific sectors of the health care
+#          industry. These two-credit-hour elective courses in the past have focused on
+#          topics such as international health care, facilities planning, technology
+#          assessment, health care and the elderly, physician practice management, and
+#          health care consulting.
+      - role: Research Assistant
+        time: 2001 - 2006
+        company: University of Wisconsin-Madison, Department of Biostatistics and Medical Informatics
+        companyurl: biostat.wisc.edu
+        manager: Dr. C. David Page
+        details: Integration of human expert feedback into machine learning systems. Analyzing biological data using statistical and machine learning algorithms.
+      - role: Lecturer
+        time: 2005
+        company: University of Wisconsin-Madison, Department of Biostatistics and Medical Informatics
+        companyurl: biostat.wisc.edu
+        manager: Dori Kalish
+        details: Taught an accelerated undergraduate summer course in bioinformtics for the Summer Research Program in Biostatistics and Bioinformatics
+#      - role: Professional Tutor
+#        time: 2003 - 2005
+#        company: University of Wisconsin-Madison, Department of Computer Sciences
+#        companyurl: cs.wisc.edu
+#        details: One-on-one tutoring of undergraduate students in computer science courses.
       - role: Intern
-        time: May 2003 - Aug 2003
-        company: Abbott Laboratories
+        time: 2003
+        company: Abbott Laboratories, Department of Structural Chemistry
         companyurl: abbott.com
+        manager: Dr. John C. Rogers
         details: |
           Designed and implemented SELDI Filter, an application for automated analysis of proteomic mass spectrometry data. Provided statistical insights into protocols in order to assess the validity and predictive power of the results of those experiments.
+      - role: Teaching Assistant
+        time: 2002
+        company: University of Wisconsin-Madison, Department of Computer Sciences
+        companyurl: cs.wisc.edu
+        manager: Debra Deppeler
+        details: Teaching assistant for an Introduction to Programming discussion section.
+#      - role: Programmer
+#        time: 2001 - 2002
+#        company: FlipSide Printing, L.L.C.
+#        manager: Daniel C. Kahl
+#        details: Designed and maintained database applications using Microsoft Access and Visual Basic. 
+      - role: Research Assistant
+        time: 2000
+        company: University of Wisconsin-Madison, Department of Mathematics
+        companyurl: math.wisc.edu
+        manager: Dr. James Propp
+        details: Exploration of abelian sand-pile models through theoretical and computational analysis.
+      - role: Research Assistant
+        time: 1998 - 2000
+        company: University of Wisconsin-Madison, Department of Biochemistry
+        companyurl: biochem.wisc.edu
+        manager: Dr. Ronald T. Raines
+        details: Investigation of the inductive effect in the stabilization of hydroxyproline residues in collagen from a computational chemistry perspective.
+#      - role: Volunteer Emergency Medical Technician
+#        time: 1998 - 2000
+#        company: Village of Elm Grove, Wisconsin
+#      - role: Professional Tutor
+#        time: 1998 - 2000
+#        company: Universtiy of Wisconsin-Madison, Academic Advancement Program
+#        companyurl: cae.ls.wisc.edu/academic-advancement-program-aap
+#        details: One-on-one tutoring of undergraduate students in the colleges of Business and Letters and Science.  Taught a variety of mathematics, computer science and economics courses.
+      - role: Student Assistant
+        time: 1996 - 1999
+        company: University of Wisconsin-Madison, Wisconsin Emerging Scholars Program
+        companyurl: math.wisc.edu/undergraduate/wes
+        manager: Dr. Melinda Certain
+        details:  |
+          Taught group-learning based discussions sections in the three-semester Calculus sequence. (Calculus I: Fall 1996, Fall 1998; Calculus II: Spring 1996, Spring 1997, Spring 1998, Spring 1999, Fall 1999; Calculus III: Fall 1997)
+#      - role: Volunteer Tutor
+#        time: 1998
+#        company: University of Wisconsin-Madison, Greater University Tutoring Service
+#        companyurl: guts.studentorg.wisc.edu
+#        details: One-on-one and group tutoring of undergraduate students in a variety of mathematics, physics and chemistry courses. 
+      - role: Research Assistant
+        time: 1997 - 1998
+        company: University of Wisconsin-Madison, Comprehensive Cancer Center
+        companyurl: cancer.wisc.edu/uwccc/
+        manager: Dr. David A. Boothman
+        details: Examined DNA mismatch repair damage in human colorectal tumor cells.
+#      - role: Judge
+#        time: 1997
+#        company: University of Wisconsin-Madison, Department of Mathematics
+#        companyurl: math.wisc.edu
+#        details: Judge for the May 1997 University of Wisconsin Math Meet Finals
+#      - role: Emergency Room and Trauma Life Center Volunteer
+#        time: 1997 - 1998
+#        company: University of Wisconsin Hospital
+#        companyurl: uwhealth.org
+      - role: Research Assistant
+        time: 1996 - 1997
+        company: University of Wisconsin-Madison, McArdle Laboratory for Cancer Research
+        companyurl: mcardle.wisc.edu
+        manager: Dr. Charles B. Kasper
+        details: Investigation into the structure/function relationship in NADPH-cytochrome P450 oxidoreductase.
+#      - role: Programmer
+#        time: 1997
+#        company: Waukesha Trap and Skeet Club
+#        companyurl: waukeshagunclub.org
+#        manager: Gary Schaetzel
+#        details: Designed and implemented a payroll system using Visual Basic and Microsoft Access.  Designed club website.
+#      - role: Assistant Office Manager
+#        time: 1991 - 1995
+#        company: Waukesha Trap and Skeet Club
+#        companyurl: waukeshagunclub.org
+#        manager: Gary Schaetzel
+#        details: Cashiered and managed staffing, finance, accounting and inventory.
 
 certifications:
       title: Certifications
@@ -208,3 +298,44 @@ skills:
 #
 #      - name: Bash
 #        level: 80%
+
+strengths:
+    title: Strengths
+    info:
+      - name: Strong problem solving and research skills.
+      - name: Strong interdisciplinary background in both biological and physical sciences.
+      - name: Intense curiosity and appetite for knowledge.
+      - name: Comfortable in unstructured environments where initiative and creativity are encouraged.
+
+grants:
+    title: Grants Received
+    info:
+      - name: Computation and Informatics in Biology and Medicine Training Program Fellowship
+        time: 2002 - 2005
+      - name: University of Wisconsin Medical Scholars Training Program Fellowship
+        time: 2000 - 2001
+      - name: Barry M. Goldwater Scholarship
+        time: 1997 - 1999
+      - name: Howard Hughes Scholars Fellowship (declined)
+        time: 1997
+      - name: Letters and Science Honors Sophomore Summer Apprenticeship
+        time: 1996
+
+honors:
+    title: Honors &amp; Awards
+    info:
+      - name: National Merit Scholar
+        time: 1992 - 1995
+      - name: University of Wisconsin Medical Scholar
+        time: 1995 - 2000
+      - name: University of Wisconsin Dean's List (6 out of 10 semesters)
+        time: 1995 - 2000
+      - name: Phi Beta Kappa Honor Society
+        time: 1998 - 2000
+      - name: Phi Kappa Phi Honor Society
+        time: 1997 - 2000
+      - name: Golden Key National Honor Society
+        time: 1997 - 2000 
+      - name: Boy Scout Eagle Award
+        time: 1991
+
