@@ -20,11 +20,29 @@ sidebar:
     telegram: mwaddell
     gitlab:
     bitbucket: 
-    twitter: # "@mwaddell"
+    twitter: # '@mwaddell'
     stack-overflow: # 1238190/michael-waddell
     codewars:
     goodreads: # 2861448-michael-waddell
     pdf: # TODO: Add github action to create PDF of /print
+
+#    languages:
+#      title: Languages
+#      info:
+#        - idiom: English
+#          level: Native
+#
+#        - idiom: Spanish
+#          level: Professional
+
+#    interests:
+#      title: Interests
+#      info:
+#        - item: Reading
+#          link:
+#
+#        - item: Genealogy
+#          link:
 
 career-profile:
     title: Consulting Services
@@ -109,6 +127,7 @@ certifications:
           start: 2021
           end: present
           organization: (ISC)<sup>2</sup>
+          credentialid:
           credentialurl: isc2.org/Certifications/CSSLP
           credentialname: CSSLP
           details: |
@@ -179,4 +198,24 @@ publications:
 #        authors: Edgar T. Irons
 #        conference: "Comm. ACM 4 (1961), 51–55"
 
-footer: 
+#skills:
+#    title: Skills &amp; Proficiency
+#
+#    toolset:
+#      - name: Python & Django
+#        level: 98%
+#
+#      - name: Javascript & jQuery
+#        level: 98%
+#
+#      - name: Angular
+#        level: 98%
+#
+#      - name: HTML5 & CSS
+#        level: 95%
+#
+#      - name: Ruby on Rails
+#        level: 85%
+#
+#      - name: Sketch & Photoshop
+#        level: 60%

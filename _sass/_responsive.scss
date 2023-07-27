@@ -26,6 +26,10 @@
   .main-wrapper .upper-row {
     margin-bottom: 0;
   }
+
+  .footer {
+    background: $theme-color;
+  }
 }
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) {
