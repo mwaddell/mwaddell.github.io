@@ -59,10 +59,15 @@ p {
     color: #fff;
   }
   .name {
-    font-size: 32px;
+    font-size: 28px;
     font-weight: 900;
     margin-top: 0;
     margin-bottom: 10px;
+
+    .degrees {
+      font-size: 18px;
+      display: block;
+    }
   }
   .tagline {
     color: rgba(256, 256, 256, 0.6);
