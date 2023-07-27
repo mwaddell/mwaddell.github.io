@@ -30,14 +30,22 @@ sidebar:
     pdf:
 
 career-profile:
-    title: Career Profile
+    title: About Me
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I design secure software architectures and use machine learning to model and analyze large and complex data sets. My open-source work focuses on developing and advancing open-source technologies that support the secure software lifecycle.
+      
+      **Consulting Services:**
+      - Machine Learning and Statistical Analysis
+      - Data Visualization
+      - Scientific Article Writing and Editing
+      - Threat Modeling
+      - Code Review
+      - Secure Software Architecture
+      - Database Architecture
+      - Full-Stack Software Development
+      - Lean Project Management
+      
+      **Primary Technologies:** C#/.NET, TypeScript, React, SQL, Python, Bash
 education:
     title: Education
     info:
@@ -197,27 +205,4 @@ publications:
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
 
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+footer: 
