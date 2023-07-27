@@ -59,8 +59,6 @@ career-profile:
       - Database Architecture
       - Full-Stack Software Development
       - Lean Project Management
-      
-      **Primary Technologies:** C#/.NET, TypeScript, React, SQL, Python, Bash
 education:
     title: Education
     info:
@@ -188,24 +186,25 @@ publications:
 #        authors: Edgar T. Irons
 #        conference: "Comm. ACM 4 (1961), 51–55"
 
-#skills:
-#    title: Skills &amp; Proficiency
-#
+skills:
+    title: Skills &amp; Proficiency
+    summary: |
+      **Primary Technologies:** C#/.NET, TypeScript, React, SQL, Python, Bash
 #    toolset:
-#      - name: Python & Django
+#      - name: C#/.NET
 #        level: 98%
 #
-#      - name: Javascript & jQuery
+#      - name: TypeScript
 #        level: 98%
 #
-#      - name: Angular
-#        level: 98%
-#
-#      - name: HTML5 & CSS
+#      - name: React
 #        level: 95%
 #
-#      - name: Ruby on Rails
+#      - name: SQL
+#        level: 90%
+#
+#      - name: Python
 #        level: 85%
 #
-#      - name: Sketch & Photoshop
-#        level: 60%
+#      - name: Bash
+#        level: 80%
