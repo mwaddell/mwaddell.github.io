@@ -79,46 +79,29 @@ education:
           - Research Focus: Using computational and quantum chemical approaches to understand the structural and energetic origins of the high stability of collagen molecules;
           - Advisor: Dr. Ronald T. Raines
 
-#experiences:
-#    title: Experiences
-#    info:
-#      - role: Lead Developer
-#        time: 2015 - Present
-#        company: Startup Hubs, San Francisco
-#        details: |
-#          Describe your role here lorem ipsum dolor sit amet, consectetuer
-#          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-#          Cum sociis natoque penatibus et magnis dis parturient montes,
-#          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-#          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-#          error sit voluptatem accusantium doloremque laudantium, totam rem
-#          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-#          architecto beatae vitae dicta sunt explicabo.
-#            - Bullet point
-#            - Bullet point
-#      - role: Senior Software Engineer
-#        time: 2014 - 2015
-#        company: Google, London
-#        details: |
-#          Describe your role here lorem ipsum dolor sit amet, consectetuer
-#          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-#          Cum sociis natoque penatibus et magnis dis parturient montes,
-#          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#          pellentesque eu, pretium quis, sem.
-#            - Bullet point
-#            - Bullet point
-#      - role: UI Developer
-#        time: 2012 - 2014
-#        company: Amazon, London
-#        details: |
-#          Describe your role here lorem ipsum dolor sit amet, consectetuer
-#          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-#          Cum sociis natoque penatibus et magnis dis parturient montes,
-#          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#          pellentesque eu, pretium quis, sem.
-#            - Bullet point
-#            - Bullet point
+experiences:
+    title: Experiences
+    intro: My professional work focuses on developing AI-based systems for national defense, homeland security and public health surveillance.
+    info:
+      - role: Senior Software Architect, Director of Information Technology
+        time: 2006 - present
+        company: Pangaea Information Technologies, Ltd.
+        companyurl: pangaeatech.com
+        details: 
+      - role: Data &amp; Impact Advisory Panel
+        time: 2013 - 2018
+        company: Ingenuity Incorporated
+        companyurl: ingenuity-inc.org
+        details: |
+          Ingenuity's mission is to leverage the vibrant communities, rich knowledge and significant resources of Chicago to ensure the arts are a critical component of every public school student’s education.
+
+          The Data &amp; Impact Advisory Panel develops strategies to create innovative, aligned, and streamlined data collection and tracking solutions in the arts education sector to better inform and drive expanded arts programs in schools across Chicago.
+      - role: Intern
+        time: May 2003 - Aug 2003
+        company: Abbott Laboratories
+        companyurl: abbott.com
+        details: |
+          Designed and implemented SELDI Filter, an application for automated analysis of proteomic mass spectrometry data. Provided statistical insights into protocols in order to assess the validity and predictive power of the results of those experiments.
 
 certifications:
       title: Certifications
@@ -132,7 +115,14 @@ certifications:
           credentialname: CSSLP
           details: |
             The vendor-neutral CSSLP credential validates that software professionals have the expertise to incorporate security practices – authentication, authorization and auditing – into each phase of the software development lifecycle, from software design and implementation to testing and deployment. CSSLP confirms one’s knowledge to reduce loss of revenue and reputation due to a breach resulting from insecure software, while enhancing the credibility of an organization and its development team.
-        
+        - name: Information Assurance Security Officer Certification
+          start: 2010
+          organization: Department of the Army
+          credentialid:
+          credentialurl:
+          credentialname: IASO
+          details: |
+            An Information Assurance Security Officer in the United States Army is primarily responsible for the security and integrity of the information systems in his or her area of responsibility.
 #projects:
 #    title: Projects
 #    intro: >

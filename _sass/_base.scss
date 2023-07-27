@@ -216,8 +216,13 @@ p {
     position: absolute;
     right: 0;
     top: 0;
-    color: $text-grey;
     flex: 25%;
+  }
+  .time {
+    color: $text-grey;
+  }
+  .cert-url {
+    color: darken($theme-color, 15%);
   }
   .company,
   .university,

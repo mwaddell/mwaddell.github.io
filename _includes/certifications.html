@@ -34,6 +34,10 @@
             >{{ certifications.credentialname }}</a
           >
         </div>
+        {% elsif certifications.credentialname %}
+        <div class="cert-url">
+          {{ certifications.credentialname }}
+        </div>
         {% endif %}
       </div>
     </div>

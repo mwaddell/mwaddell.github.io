@@ -9,6 +9,12 @@
     {{ experiences.title }}
   </h2>
 
+  {% if experiences.intro %}
+  <div class="intro">
+      <p>{{ experiences.intro }}</p>
+  </div><!--//intro-->
+  {% endif %}
+
   {% for experience in experiences.info %}
   <div class="item">
 
@@ -19,7 +25,17 @@
         <div class="time">{{ experience.time }}</div>
       </div><!--//upper-row-->
 
-      <div class="company">{{ experience.company }}</div>
+      <div class="company">
+        {% if experience.companyurl %}
+          <a
+            href="//{{ experience.companyurl }}"
+            target="_blank"
+            rel="noreferrer nofollow noopener"
+            >{{ experience.company }}</a>
+        {% else %}
+          {{ experience.company }}
+        {% endif %}
+      </div>
 
     </div><!--//meta-->
 
