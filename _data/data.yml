@@ -59,15 +59,14 @@ education:
 
 experiences:
     title: Experiences
-#    intro: My professional work focuses on developing AI-based systems for national defense, homeland security and public health surveillance.
     info:
-      - role: Senior Software Architect, Director of Information Technology
+      - role: Senior Artificial Intelligence Software Engineer, Secure Software Architect, Director of Information Technology
         time: 2006 - present
         company: Pangaea Information Technologies, Ltd.
         companyurl: pangaeatech.com
         manager: Mikl&oacute;s Ferenczy
         details: |
-          Designing software architectures and leading development teams in the creation of custom software to leverage geospatial analysis, artificial intelligence, and statistical analysis of large data warehouses. Managing the internal IT infrastructure supporting development, build, integration, staging and production environments.  
+          Designing secure software architectures and leading development teams in the creation of custom software to leverage geospatial analysis, artificial intelligence, and statistical analysis of large data warehouses.  Managing the internal IT infrastructure supporting development, build, integration, staging and production environments.  
       - role: Data &amp; Impact Advisory Panel
         time: 2013 - 2018
         company: Ingenuity Incorporated
@@ -211,8 +210,51 @@ certifications:
           credentialname: IASO
           details: |
             An Information Assurance Security Officer in the United States Army is primarily responsible for the security and integrity of the information systems in his or her area of responsibility.
-#projects:
-#    title: Projects
+projects:
+    title: Projects
+#          Mr. Waddell is the lead developer for the U.S. Army Range Complex Master Planning Tool (RCMPT). RCMPT is a web-based application that allows all 102 U.S. Army training installations to develop their Range Master Plans in a uniform and consistent manner and supports their review and validation for funding approval.
+#          Mr. Waddell recently served as the lead developer on the GUARDIAN (Geographic Utilization of Artificial Intelligence in Real-Time for Disease Identification and Notification) system developed under a grant from the U.S. Army Medical Research and ACQ Activity, Telemedicine and Advanced Technology Research Center TATRC). GUARDIAN is a web-based, real-time, scalable, extensible, automated, knowledge-based biological threat agent (BTA) detection and diagnosis system used to detect both weaponizable BTA’s and naturally occurring diseases using machine learning on real-time medical records.
+#          Mr. Waddell also served as the lead developer for the Chicago Department of Children and Youth Services web-based after-school program locator. 
+#
+#Relevant Project Experience
+#Senior Software Architect, Commission for Environmental Cooperation (CEC), Taking Stock Online North American Pollutant Release and Transfers Register (PRTR) Tool, 12/2007 - Present
+#This application supports the CEC in its effort to develop and maintain North American Pollutant Release and Transfer Records (NA PRTR) data internally with existing resources, and to make these data available to both internal and external users. The project entails the acquisition and transition of the three National PRTR datasets into a new database infrastructure and providing access to these data for CEC users through a web application based on the current Query Builder toolset. This new database infrastructure and web application, managed within the existing CEC environment, provides the CEC the control over the National PRTR data required to manage the data in a manner more compatible with CEC needs. The redesigned Query Builder allows the CEC to control how and when data is presented to its users. The system integrates the Google Maps API) and a custom SQL Server database. This solution provides a solid foundation for the rapid interaction and exchange of data necessary to request and return complex queries from a large dataset while providing a flexible and scalable framework allowing for the integration of additional report years and data fields in the future. 
+#Senior Software Architect, U.S. Army TPO-Ranges, Range Complex Master Planning Tool (RCMPT), 10/2013 - Present
+#The RCMPT serves the Army’s Sustainable Range Program (SRP) community by providing installations with the capability to develop, staff, and publish a comprehensive Range Complex Master Plan (RCMP) for their respective installations and/or areas of responsibility.  The final products of the RCMP include three work plans: 1) the Range Modernization Work Plan, 2) the ITAM Work Plan, and 3) the Range Operations Work Plan. The project entailed the development of a thoroughly documented and validated understanding of user-stakeholders, processes, constraints, and relationships. The project rigorously followed modern software development standards and best practices in applying appropriate STIG (Security Technology Implementation Guide) compliant technology and system design to meet the specific requirements of the RCMP business process. The redesign and development of the RCMPT application focused around producing an application which is well tested, thoroughly documented, robust and scalable, which integrates tightly within the SRPWeb Portal infrastructure, and which is easily maintained by SRP personnel. 
+#
+#Senior Software Architect, U.S. Army Medical Research and ACQ Activity, Telemedicine and Advanced Technology Research Center, GUARDIAN, 05/2006 – 09/2018 
+#GUARDIAN is a web based real-time, scalable, extensible, automated, knowledge-based biological threat agent (BTA) detection and diagnosis system used to detect both weaponizable BTA’s and naturally occurring diseases using artificial intelligence-based algorithms on real time medical records. The GUARDIAN system currently processes over 20,000 patient records per day and has been running in real time since September 2009. GUARDIAN pulls data from multiple hospital data systems and applies data normalization, natural language processing, and AI based logic to predict the probability of over 50 potential diseases for each patient. The system is an inherently portable system currently consisting of a Pre-Processor, an Inference Engine, an Alert Notification System, a Human Interaction System, a Memory Archiver, and a set of relational databases managed by a Database Management System (DBMS). All of the processing modules were developed using the JAVA programming language – a language that runs on any hardware architecture and any operating system without code-modification or recompilation – and the web-based portion of the human interaction system was developed in Adobe Flex – a programming environment that is similarly platform-agnostic. All interactions between GUARDIAN and its DBMS use only those commands that are supported by all major databases and are also a part of the SQL92 standard. Furthermore, GUARDIAN receives all its data using the HL7 and TCP standards and interacts with its users through a browser-independent web-based interface.
+#All patients are mapped using home and work addresses and then a cluster detection algorithm determines any non-random patterns. The result of the cluster analysis feeds back into the probability calculation process to account for any spatial patterns that would influence the assessment of an outbreak. 
+#The Guardian predictive analytics tool utilizes patient information received during the first 30 minutes of an ED (Emergency Department) visit (demographics, first set of vital signs, previous medical history, arrival details, etc.) along with a robust statistical algorithm to predict the likelihood of a patient's admission to the hospital with an accuracy of 95%. The tool serves to improve the efficiency of patient throughput in the emergency department with real-time predictive analytics. These predictions empower hospital staff to take appropriate patient-specific actions.
+#
+#Senior Software Architect, Learning Evaluation and Outcomes (LEO), Snow City Arts, 07/2013 – present
+#Snow City Arts is a not-for-profit organization that works with long term hospitalized children and augments hospital services by addressing a child’s developmental and educational needs through the arts. Pangaea developed the Learning Evaluation and Outcomes (LEO) application to facilitate data management, sharing, and reporting for Snow City Arts artists and staff conducting arts instruction workshops, student assessments, and administration. LEO supports approximately fifty active staff, administrative, and artist users with records pertaining to nearly fifteen thousand individual students at ten different hospitals. LEO is designed to facilitate both in-person one-to-one instruction at the students’ hospital rooms, group classes with multiple student and instructor participants, as well as remote learning with virtual workshops and remote students and artists. LEO is designed to be HIPPA compliant with respect to data encryption, logging, and access control. Technologies Applied: .NET 4.5 (C#, Entity Framework 6.1, Razor view engine), JavaScript (AJAX, jQuery, jQueryUI, jqGrid, KnockoutJS, Modernizr/HTML5Shiv, JSON), Saltarelle C#/JavaScript cross-compiler, NancyFX (lightweight MVC framework), NUnit, QUnit, Moq, SQL Server, FxCop
+#Senior Software Architect, Flow Kaizen Process Optimization Tools, IBM Watson 09/2018 – present
+#The Performance Flow Kaizen suite of tools supports value stream transformation (VST) and continuous improvement initiatives in healthcare and industrial sectors at the operator level. The current state of lean in most sectors is backwards looking which creates ongoing risk and provides feedback too late to recover schedule and quality. Current lean methods are employed primarily after the fact rather than in a predictive and proactive manner. The Flow Kaizen suite of tools provides data-driven, real-time visual cues to frontline staff in support of maintaining pace and flow of operations as informed by the value stream and standard work designs. The Flow Kaizen suite of tools helps deliver operational goals by giving the staff who are directly providing the care visibility to flow disruptions as they occur. This targeted and timely delivery of actionable information is more effective in improving performance than the commonly used retrospective performance reporting and dashboards because front line staff can react immediately to situations as they occur. The Flow Kaizen tools integrate with any client systems to display REAL-TIME progress to plan/takt-time.
+#
+#Senior Software Architect, Chicago Arts Program Locator, Ingenuity, Inc, 09/2013 – 2015
+#The project involves the development of a web-based interface to allow key stakeholders to perform basic queries against Ingenuity Incorporated’s data holdings. These datasets contain service specific information for arts organizations and information about where (i.e. at which CPS schools) services are provided. Key geographic attributes are essential elements of the research and data held, requiring that a mapping interface be an essential component of an overall public presentation solution.
+#
+#Senior Software Architect, Chicago Metropolitan Agency for Planning (CMAP), Regional Transportation Data Archive, 03/2012 – 06/2020
+#The Regional Transportation Data Archive is an application service that pulls transportation data (real time traffic speeds and volumes from road sensors, weather, incidents, etc.) from external sources and stores it for both future use and archival purposes. The application stores all downloaded data in their provided format, imports the data into a Git repository and then pushes data into a PostgreSQL database for future access by web services. The system is designed to run in parallel from two locations. The two locations synchronize databases daily and test for inconsistencies to ensure that each location contains a comprehensive archive of the dataset. The system has been designed to ensure cloud-based compatibility in the future. Key technologies: Python, APScheduler, RPyC, PsycoPg2, PostgreSQL, PyUnit, EpyDoc, PyLint, Coverage.py.
+#
+#Senior Software Architect, Picis Biosurveillance, 05/2006 – 06/2010
+#Currently serving as the technical lead for the Picis Biosurveillance application, which utilizes open-source standards and software in conducting real-time syndromic surveillance of emergency room data. The application facilitates data visualization by generating maps and graphs based on user-defined database queries.
+#
+#Senior Software Architect, CMAP Municipal Data Portals, 10/2011 – 06/2014
+#CMAP’s online Municipal Data Portals extends the MetroPulse regional data portal by focusing on small geographic areas (typically municipalities) and displaying detailed data (such as parcel-level data) for those areas. The project is designed to allow quick access to detailed maps, charts, and data tables relevant for planning, development, and governance activities within the currently selected community. The purpose of this project is to develop a single code base to dynamically render any number of Municipal Data Portals.
+#
+#Senior Software Architect, Metropolitan Chicago Healthcare Council (MCHC) Pediatric Vulnerability Analysis (PHVA) Tool, 03/2011 – 06/2018
+#The PHVA Tool is a web-based application designed to help users determine probability, risk and preparedness for human, technological and natural events that may occur within their facility’s area of operations. The system was developed in .NET 4.0 (C#) using the ASP.NET MVC 3 web application framework to enforce strict separation between the presentation and business-logic layers of the application. Entity Framework 4.1 was used for interacting with the SQL Server database backend). The user interface was enhanced using JavaScript (jQuery, Modernizr, Ajax) both for user interactivity and for interaction with the Google Charting and Google Maps APIs as well as SQL Server, providing a solid foundation upon which future enhancements may be implemented. Key technologies used include  .NET 4.0 (C#, ASP.NET MVC 3, Entity Framework 4.1), JavaScript (jQuery, Modernizr, Ajax, Google Maps API), SQL Server, NUnit, VSUnit, FxCop
+#
+#Senior Software Architect, City of Chicago Out of School Time Program Locator, 07/2007 – 02/2011
+#Served as lead developer for a data driven web mapping application for out of school education and recreation programs within the City of Chicago. The locator is comprised of a user-friendly web-based interface that allows students to query the database based on location, program type, program provider, and schedule. The system includes an integrated web mapping tool that displays query results and allows users to link and access program sites and databases. This project was funded by the Wallace Foundation.
+#
+#Senior Software Architect, After School Matters Database and IT Support, 10/2007 – 07/2009
+#Provided customized database and IT support to After School matters, a non-profit organization providing Out of School programs to Chicago youth.
+#
+#AI Developer, InterGenetics Modeling and Statistical Analysis Support, 02/2007-06/2007
+#Served as lead developer to provide modeling and statistical analyses on SNPs as they relate to a breast cancer as part of a research initiative conducted by InterGenetics, Inc. The project entailed hierarchical clustering analysis on all cancer patients to find sub-groups with significant commonalities followed by the modeling and analysis of a single subgroup using support vector machines, Bayesian networks, decision trees, regression analysis and inductive logic programming.
 #    intro: >
 #      You can list your side projects in this
 #      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -280,6 +322,10 @@ skills:
     title: Skills &amp; Proficiency
     summary: |
       **Primary Technologies:** C#/.NET, TypeScript, React, SQL, Python, Bash
+#Technical Expertise
+#Programming Languages:  C#/.NET, TypeScript/JavaScript, Java, Python, C/C++, PERL, XML/XSLT, Prolog, Lisp, PHP, SQL, HTML/CSS, Bash
+#Application Servers:  Microsoft IIS, Azure Functions, Tomcat, NodeJS, SharePoint, ESRI ArcGIS, Apache, NGINX
+#RDBMS / Databases: MS SQL Server, MySQL, PostgreSQL, CouchDB, Cosmos DB, MS Access
 #    toolset:
 #      - name: C#/.NET
 #        level: 98%
