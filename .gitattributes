@@ -1,0 +1,2 @@
+*.yml linguist-detectable
+assets/plugins/* linguist-vendored
