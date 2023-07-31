@@ -13,7 +13,7 @@ sidebar:
     phone: 
     timezone: Chicago, IL
     citizenship: # U.S.A.
-    website: # waddellnet.com
+    website: waddellnet.com
     linkedin: mwaddell
     xing: 
     github: mwaddell
@@ -21,7 +21,7 @@ sidebar:
     gitlab:
     bitbucket: 
     twitter: # '@mwaddell'
-    stack-overflow: # 1238190/michael-waddell
+    stack-overflow: 1238190/michael-waddell
     codewars:
     goodreads: # 2861448-michael-waddell
     pdf: # TODO: Add github action to create PDF of /print
@@ -29,7 +29,7 @@ sidebar:
 career-profile:
     title: Consulting Services
     summary: |
-      I design secure software architectures and use machine learning to model and analyze large and complex data sets. I provide the following consulting services both as an independent contractor and through <a href="https://www.pangaeatech.com">Pangaea Information Technologies, Ltd.</a> (depending on the size of the project):
+      I design secure software architectures and use machine learning to model and analyze large and complex data sets. I provide the following consulting services both as an independent contractor and through [Pangaea Information Technologies, Ltd.](https://www.pangaeatech.com) (depending on the size of the project):
       - Machine Learning and Statistical Analysis
       - Data Visualization
       - Scientific Article Writing and Editing

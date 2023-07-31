@@ -98,7 +98,7 @@ p {
     .fas,
     .fab,
     .far {
-      margin-right: 5px;
+      margin-right: 8px;
       font-size: 18px;
       vertical-align: middle;
     }
@@ -109,6 +109,13 @@ p {
       }
     }
   }
+  .contact-icons {
+    text-align: center;
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom: 15px;
+  }
+
   .container-block {
     padding: 30px 30px 0 30px;
   }
