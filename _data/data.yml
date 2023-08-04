@@ -218,103 +218,112 @@ projects:
         role: Senior Software Architect
         time: 2013 - present
         client: U.S. Army Sustainable Range Program
-#        clienturl: https://srp.army.mil
+#        clienturl: srp.army.mil
         tagline: A web-based application that allows all 100+ U.S. Army training installations to develop their Range Master Plans in a uniform and consistent manner and supports their review and validation for funding approval.
-
+      - title: Taking Stock Online
+        link: "http://takingstock.cec.org"
+        role: Senior Software Architect
+        time: 2007 - present
+        client: Commission for Environmental Cooperation
+        clienturl: www.cec.org
+        tagline: Allows users to explore information on pollution from industrial facilities across North America. This application combines data from facilities across the United States, Mexico, and Canada to provide an interactive customized query tool that generates summary charts and downloadable reports.
+      - title: Flow Kaizen Process Optimization Tools
+        link: "https://www.flowkaizen.com/"
+        role: Senior Software Architect
+        time: 2018 - present
+        client: IBM Watson Health
+        clienturl: www.ibm.com/resources/watson-health
+        tagline: Supports value stream transformation (VST) and continuous improvement initiatives in healthcare and industrial sectors at the operator level.  Provides data-driven, real-time visual cues to frontline staff in support of maintaining pace and flow of operations as informed by the value stream and standard work designs. Helps deliver operational goals by giving the staff who are directly providing the care visibility to flow disruptions as they occur. 
+      - title: Learning Evaluation and Outcomes (LEO)
+        link: "https://leo.snowcityarts.org/"
+        role: Senior Software Architect
+        time: 2013 - present
+        client: Snow City Arts
+        clienturl: snowcityarts.org
+        tagline: Data management, sharing, and reporting for Snow City Arts artists and staff conducting arts instruction workshops, student assessments, and administration. Supports approximately fifty active staff, administrative, and artist users with records pertaining to nearly fifteen thousand individual students at ten different hospitals. 
+      - title: Fires Synchronization to Optimize Responses in Multi-Domain Operations (FIRESTORM)
+        role: Lead User Interface Developer
+        time: 2022
+        client: FD Software Enterprises
+        clienturl: fd-software.com
+        tagline: An artificial intelligence (AI)-enabled system which provides real-time situational awareness and decision support for front-line commanders. The user interface provides interactive 2D- and 3D mapping and manipulation of real-time battlefield data. It can be deployed as either a web application or as a desktop application.
       - title: Geographic Utilization of Artificial Intelligence in Real-Time for Disease Identification and Notification (GUARDIAN)
         role: Lead Developer
         time: 2006 - 2020
         client: Rush University Medical Center
-        clienturl: https://www.rush.edu
+        clienturl: www.rush.edu
         tagline: A web-based, real-time, scalable, extensible, automated, knowledge-based biological threat agent (BTA) detection and diagnosis system used to detect both weaponizable BTA’s and naturally occurring diseases using machine learning on real-time medical records.
-
-      - title: Taking Stock Online
-        link: http://takingstock.cec.org
+      - title: Regional Transportation Data Archive
         role: Senior Software Architect
-        time: 2007 - present
-        client: Commission for Environmental Cooperation (CEC)
-        clienturl: http://www.cec.org
-        tagline: Allows users to explore information on pollution from industrial facilities across North America. This application combines data from facilities across the United States, Mexico, and Canada to provide an interactive customized query tool that generates summary charts and downloadable reports.
-
-      - title: Learning Evaluation and Outcomes (LEO)
-        link: https://leo.snowcityarts.org/
+        time: 2012 - 2020
+        client: Chicago Metropolitan Agency for Planning
+        clienturl: www.cmap.illinois.gov
+        tagline: An application service that pulls transportation data (real time traffic speeds and volumes from road sensors, weather, incidents, etc.) from external sources and stores it for both future use and archival purposes. The application stores all downloaded data in their provided format, imports the data into a Git repository and then pushes data into a PostgreSQL database for future access by web services. 
+      - title: Comprehensive Vulnerability Analysis Tool
+        role: Senior Developer
+        time: 2011 - 2018
+        client: Chicago Healthcare System Coalition for Preparedness and Response
+        clienturl: chscpr.org
+        tagline: Assesses healthcare facility vulnerabilities to various hazards. The tool walks the user through a series of questions that help the user to detail the likelihood that a given natural, technological, or anthropogenic event may occur at their facility and what their facility’s specific risks and levels of preparedness are for those events. The results of these surveys not only help individual facilities to better prepare but also guides regional planning commissions in supporting these planning efforts.
+      - title: Chicago Arts Program Locator
         role: Senior Software Architect
-        time: 2013 - present
-        client: Snow City Arts
-        clienturl: https://snowcityarts.org/
-        tagline: Data management, sharing, and reporting for Snow City Arts artists and staff conducting arts instruction workshops, student assessments, and administration. Supports approximately fifty active staff, administrative, and artist users with records pertaining to nearly fifteen thousand individual students at ten different hospitals. 
-
-      - title: Flow Kaizen Process Optimization Tools
-        link: https://www.flowkaizen.com/
-        role: Senior Software Architect
-        time: 2018 - present
-        client: IBM Watson Health
-        clienturl: https://www.ibm.com/resources/watson-health/
-        tagline: Supports value stream transformation (VST) and continuous improvement initiatives in healthcare and industrial sectors at the operator level.  Provides data-driven, real-time visual cues to frontline staff in support of maintaining pace and flow of operations as informed by the value stream and standard work designs. Helps deliver operational goals by giving the staff who are directly providing the care visibility to flow disruptions as they occur. 
-
-#Senior Software Architect, Chicago Arts Program Locator, Ingenuity, Inc, 09/2013 – 2015
-#The project involves the development of a web-based interface to allow key stakeholders to perform basic queries against Ingenuity Incorporated’s data holdings. These datasets contain service specific information for arts organizations and information about where (i.e. at which CPS schools) services are provided. Key geographic attributes are essential elements of the research and data held, requiring that a mapping interface be an essential component of an overall public presentation solution.
-#
-#Senior Software Architect, Chicago Metropolitan Agency for Planning (CMAP), Regional Transportation Data Archive, 03/2012 – 06/2020
-#The Regional Transportation Data Archive is an application service that pulls transportation data (real time traffic speeds and volumes from road sensors, weather, incidents, etc.) from external sources and stores it for both future use and archival purposes. The application stores all downloaded data in their provided format, imports the data into a Git repository and then pushes data into a PostgreSQL database for future access by web services. The system is designed to run in parallel from two locations. The two locations synchronize databases daily and test for inconsistencies to ensure that each location contains a comprehensive archive of the dataset. The system has been designed to ensure cloud-based compatibility in the future. Key technologies: Python, APScheduler, RPyC, PsycoPg2, PostgreSQL, PyUnit, EpyDoc, PyLint, Coverage.py.
-#
-#Senior Software Architect, Picis Biosurveillance, 05/2006 – 06/2010
-#Currently serving as the technical lead for the Picis Biosurveillance application, which utilizes open-source standards and software in conducting real-time syndromic surveillance of emergency room data. The application facilitates data visualization by generating maps and graphs based on user-defined database queries.
-#
-#Senior Software Architect, CMAP Municipal Data Portals, 10/2011 – 06/2014
-#CMAP’s online Municipal Data Portals extends the MetroPulse regional data portal by focusing on small geographic areas (typically municipalities) and displaying detailed data (such as parcel-level data) for those areas. The project is designed to allow quick access to detailed maps, charts, and data tables relevant for planning, development, and governance activities within the currently selected community. The purpose of this project is to develop a single code base to dynamically render any number of Municipal Data Portals.
-#
-#Senior Software Architect, Metropolitan Chicago Healthcare Council (MCHC) Pediatric Vulnerability Analysis (PHVA) Tool, 03/2011 – 06/2018
-#The PHVA Tool is a web-based application designed to help users determine probability, risk and preparedness for human, technological and natural events that may occur within their facility’s area of operations. The system was developed in .NET 4.0 (C#) using the ASP.NET MVC 3 web application framework to enforce strict separation between the presentation and business-logic layers of the application. Entity Framework 4.1 was used for interacting with the SQL Server database backend). The user interface was enhanced using JavaScript (jQuery, Modernizr, Ajax) both for user interactivity and for interaction with the Google Charting and Google Maps APIs as well as SQL Server, providing a solid foundation upon which future enhancements may be implemented. Key technologies used include  .NET 4.0 (C#, ASP.NET MVC 3, Entity Framework 4.1), JavaScript (jQuery, Modernizr, Ajax, Google Maps API), SQL Server, NUnit, VSUnit, FxCop
-#
-#Senior Software Architect, City of Chicago Out of School Time Program Locator, 07/2007 – 02/2011
-#Served as lead developer for a data driven web mapping application for out of school education and recreation programs within the City of Chicago. The locator is comprised of a user-friendly web-based interface that allows students to query the database based on location, program type, program provider, and schedule. The system includes an integrated web mapping tool that displays query results and allows users to link and access program sites and databases. This project was funded by the Wallace Foundation.
-#
-#Senior Software Architect, After School Matters Database and IT Support, 10/2007 – 07/2009
-#Provided customized database and IT support to After School matters, a non-profit organization providing Out of School programs to Chicago youth.
-#
-#AI Developer, InterGenetics Modeling and Statistical Analysis Support, 02/2007-06/2007
-#Served as lead developer to provide modeling and statistical analyses on SNPs as they relate to a breast cancer as part of a research initiative conducted by InterGenetics, Inc. The project entailed hierarchical clustering analysis on all cancer patients to find sub-groups with significant commonalities followed by the modeling and analysis of a single subgroup using support vector machines, Bayesian networks, decision trees, regression analysis and inductive logic programming.
-#    intro: >
-#      You can list your side projects in this
-#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#    assignments:
-#      - title: Velocity
-#        link: "#hook"
-#        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-#
-#      - title: DevStudio
-#        link: "#"
-#        tagline: "A responsive website template designed to help web developers/designers market their services."
-#
-#      - title: Tempo
-#        link: "#"
-#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-#
-#      - title: Atom
-#        link: "#"
-#        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-#
-#      - title: Delta
-#        link: "#"
-#        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        time: 2013 - 2015
+        client: Ingenuity, Inc.
+        clienturl: www.ingenuity-inc.org
+        tagline: A web-based interface to allow key stakeholders to perform basic queries against Ingenuity Incorporated’s data holdings. These datasets contain service specific information for arts organizations and information about where (i.e. at which CPS schools) services are provided. Key geographic attributes are essential elements of the research and data held, requiring that a mapping interface be an essential component of an overall public presentation solution.
+      - title: CMAP Municipal Data Portals
+        role: Senior Developer
+        time: 2011 - 2014
+        client: Chicago Metropolitan Agency for Planning
+        clienturl: www.cmap.illinois.gov
+        tagline: Extends the MetroPulse regional data portal by focusing on small geographic areas (typically municipalities) and displaying detailed data (such as parcel-level data) for those areas. Allows quick access to detailed maps, charts, and data tables relevant for planning, development, and governance activities within the currently selected community. 
+      - title: Out of School Time Program Locator
+        role: Senior Developer
+        time: 2007 - 2011
+        client: City of Chicago
+        clienturl: www.chicago.gov
+        tagline: Data-driven web mapping application for out of school education and recreation programs within the City of Chicago. The user-friendly web-based interface allows students to query the database based on location, program type, program provider, and schedule. The system includes an integrated web mapping tool that displays query results and allows users to link and access program sites and databases.
+      - title: Picis Biosurveillance
+        role: Senior Developer
+        time: 2006 - 2010
+        client: Picis Clinical Solutions
+        clienturl: www.picis.com
+        tagline: Conducts real-time syndromic surveillance of emergency room data and facilitates data visualization by generating maps and graphs based on user-defined database queries.
+#      - title: Database and IT Support
+#        time: 2007 - 2009
+#        client: After School Matters
+#        clienturl: afterschoolmatters.org
+#      - title: Modeling and Statistical Analysis
+#        role: Data Scientist
+#        time: 2007
+#        client: InterGenetics
+#        clienturl: intergenetics.com
 
 oss:
     title: OSS Contributions
-    intro: My open-source work focuses on developing and advancing open-source technologies that support the secure software lifecycle.
-#    contributions:
-#      - title: Tempo
-#        link: "#"
-#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-#
-#      - title: Atom
-#        link: "#"
-#        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-#
-#      - title: Delta
-#        link: "#"
-#        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#    intro: My open-source work focuses on developing and advancing open-source technologies that support the secure software lifecycle.
+    contributions:
+      - title: Dependabot Fetch Metadata
+        link: "https://github.com/dependabot/fetch-metadata"
+        tagline: Extract information about the dependencies being updated by a Dependabot-generated PR.
+      - title: Dependabot Core
+        link: "https://github.com/dependabot/dependabot-core"
+        tagline: Dependabot's core logic for creating update PR's.
+      - title: Salt2Type
+        link: "https://github.com/pangaeatech/salt2type"
+        tagline: A set of utilities to assist in migrating an existing codebase from Saltarelle to TypeScript
+      - title: State Machine Cat
+        link: "https://github.com/sverweij/state-machine-cat"
+        tagline: Write beautiful state charts
+      - title: Google Maps Marker Clusterer
+        link: "https://github.com/googlemaps/js-markerclusterer"
+        tagline: Create and manage clusters for large amounts of markers
+#      - title: ESLint React Plugin
+#        link: "https://github.com/jsx-eslint/eslint-plugin-react"
+#        tagline: React-specific linting rules for ESLint
+#      - title: Ant Design
+#        link: "https://github.com/ant-design/ant-design"
+#        tagline: An enterprise-class UI design language and React UI library
 
 publications:
     title: Publications

@@ -225,10 +225,10 @@ p {
     top: 0;
     flex: 25%;
   }
-  .time {
+  .time, .project-role {
     color: $text-grey;
   }
-  .cert-url, .project-role {
+  .cert-url {
     color: darken($theme-color, 15%);
   }
   .company,
@@ -248,7 +248,7 @@ p {
   .project-extra {
       font-style: italic;
   }
-  .projects-section {
+  .projects-section, .oss-section {
     .intro {
       margin-bottom: 30px;
     }
