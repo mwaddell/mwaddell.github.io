@@ -1,0 +1,19 @@
+version: 2
+updates:
+  - package-ecosystem: "bundler"
+    directory: "/"
+    schedule:
+      interval: "daily"
+      time: "11:00"
+    commit-message:
+      prefix: "[Prod]"
+      prefix-development: "[Dev]"
+    open-pull-requests-limit: 10
+    rebase-strategy: "disabled"
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "daily"
+      time: "11:00"
+    commit-message:
+      prefix: "[Build]"
