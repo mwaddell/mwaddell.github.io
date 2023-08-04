@@ -211,6 +211,11 @@ certifications:
           credentialname: IASO
           details: |
             An Information Assurance Security Officer in the United States Army is primarily responsible for the security and integrity of the information systems in his or her area of responsibility.
+#        - name: Microsoft Azure
+#          start: Working on
+#        - name: GitHub
+#          start: Working on
+
 projects:
     title: Projects
     assignments:
@@ -350,11 +355,14 @@ publications:
 skills:
     title: Technical Expertise
     summary: |
-      **Languages:** TypeScript, C#, Python, JavaScript, HTML/CSS, Java, SQL, Bash/Shell, PHP, C/C++
+      **Languages:** TypeScript, C#, Python, JavaScript, HTML/CSS, Java, SQL, Bash/Shell
+# C/C++, Lisp, Perl, PHP, Prolog, XSLT, R
 
-      **Frameworks:** React, ASP.NET, Node.js, jQuery, Azure Functions, Docker, Electron, NumPy, Scikit-Learn
+      **Frameworks:** React, ASP.NET, Node.js, jQuery, Azure Functions, Docker, Scikit-Learn, Electron
+# CesiumJS, ESRI ArcGIS, MVC.NET, Script#, SharePoint
 
       **Databases:** SQL Server, MySQL, PostgreSQL, Cosmos DB, CouchDB, MS Access
+# MongoDB,
 
 #strengths:
 #    title: Strengths
