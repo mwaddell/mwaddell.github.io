@@ -356,13 +356,14 @@ skills:
     title: Technical Expertise
     summary: |
       **Languages:** TypeScript, C#, Python, JavaScript, HTML/CSS, Java, SQL, Bash/Shell
-# C/C++, Lisp, Perl, PHP, Prolog, XSLT, R
 
       **Frameworks:** React, ASP.NET, Node.js, jQuery, Azure Functions, Docker, Scikit-Learn, Electron
-# CesiumJS, ESRI ArcGIS, MVC.NET, Script#, SharePoint
 
       **Databases:** SQL Server, MySQL, PostgreSQL, Cosmos DB, CouchDB, MS Access
-# MongoDB,
+# Additional Skills
+# Languages: C/C++, Lisp, Perl, PHP, Prolog, XSLT, R
+# Frameworks: CesiumJS, ESRI ArcGIS, MVC.NET, Script#, SharePoint
+# Databases: MongoDB
 
 #strengths:
 #    title: Strengths
