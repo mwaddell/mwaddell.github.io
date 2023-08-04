@@ -1,7 +1,6 @@
 {% assign projects = site.data.data.projects %}
 {% if projects %}
 <section class="section projects-section">
-
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
       <i class="fas fa-circle fa-stack-2x"></i>
@@ -17,21 +16,50 @@
   {% endif %}
 
   {% for project in projects.assignments %}
-    <div class="item">
+  <div class="item">
 
-      <span class="project-title">
-        {% if project.link %}
-        <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
-        {% else %}
-        {{ project.title }}
+    <div class="meta">
+
+      <div class="upper-row">
+        <span class="project-title">
+          {% if project.link %}
+          <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
+          {% else %}
+          {{ project.title }}
+          {% endif %}
+        </span>
+        <div class="time">{{ project.time }}</div>
+      </div><!--//upper-row-->
+
+      <div class="second-upper-row">
+        <div class="client">
+          {% if project.clienturl %}
+            <a
+              href="//{{ project.clienturl }}"
+              target="_blank"
+              rel="noreferrer nofollow noopener"
+              >{{ project.client }}</a>
+          {% else %}
+            {{ project.client }}
+          {% endif %}
+        </div>
+  
+        {% if project.role %}
+        <div class="project-role">{{ project.role }}</div>
         {% endif %}
-      </span>
+      </div><!--//second-upper-row-->
 
-      {% if project.tagline %}
-      - <span class="project-tagline">{{ project.tagline }}</span>
-      {% endif %}
+    </div><!--//meta-->
 
-    </div><!--//item-->
+    {% if project.tagline %}
+    <div class="project-tagline">{{ project.tagline }}</div>
+    {% endif %}
+
+    {% if project.extra %}
+    <div class="project-extra">{{ project.extra }}</div>
+    {% endif %}
+
+  </div><!--//item-->
   {% endfor %}
 
 </section><!--//section-->

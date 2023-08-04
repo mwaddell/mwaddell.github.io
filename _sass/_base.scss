@@ -218,7 +218,8 @@ p {
     flex: 75%;
   }
   .time,
-  .cert-url {
+  .cert-url,
+  .project-role {
     position: absolute;
     right: 0;
     top: 0;
@@ -227,7 +228,7 @@ p {
   .time {
     color: $text-grey;
   }
-  .cert-url {
+  .cert-url, .project-role {
     color: darken($theme-color, 15%);
   }
   .company,
@@ -243,6 +244,9 @@ p {
     margin-top: 0;
     margin-bottom: 5px;
     color: darken($theme-color, 15%);
+  }
+  .project-extra {
+      font-style: italic;
   }
   .projects-section {
     .intro {
