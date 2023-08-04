@@ -348,69 +348,50 @@ publications:
 #        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Technical Expertise
     summary: |
-      **Primary Technologies:** C#/.NET, TypeScript, React, SQL, Python, Bash
-#Technical Expertise
-#Programming Languages:  C#/.NET, TypeScript/JavaScript, Java, Python, C/C++, PERL, XML/XSLT, Prolog, Lisp, PHP, SQL, HTML/CSS, Bash
-#Application Servers:  Microsoft IIS, Azure Functions, Tomcat, NodeJS, SharePoint, ESRI ArcGIS, Apache, NGINX
-#RDBMS / Databases: MS SQL Server, MySQL, PostgreSQL, CouchDB, Cosmos DB, MS Access
-#    toolset:
-#      - name: C#/.NET
-#        level: 98%
-#
-#      - name: TypeScript
-#        level: 98%
-#
-#      - name: React
-#        level: 95%
-#
-#      - name: SQL
-#        level: 90%
-#
-#      - name: Python
-#        level: 85%
-#
-#      - name: Bash
-#        level: 80%
+      **Languages:** TypeScript, C#, Python, JavaScript, HTML/CSS, Java, SQL, Bash/Shell, PHP, C/C++
 
-strengths:
-    title: Strengths
-    info:
-      - name: Strong problem solving and research skills.
-      - name: Strong interdisciplinary background in both biological and physical sciences.
-      - name: Intense curiosity and appetite for knowledge.
-      - name: Comfortable in unstructured environments where initiative and creativity are encouraged.
+      **Frameworks:** React, ASP.NET, Node.js, jQuery, Azure Functions, Docker, Electron, NumPy, Scikit-Learn
 
-grants:
-    title: Grants Received
-    info:
-      - name: Computation and Informatics in Biology and Medicine Training Program Fellowship
-        time: 2002 - 2005
-      - name: University of Wisconsin Medical Scholars Training Program Fellowship
-        time: 2000 - 2001
-      - name: Barry M. Goldwater Scholarship
-        time: 1997 - 1999
-      - name: Howard Hughes Scholars Fellowship (declined)
-        time: 1997
-      - name: Letters and Science Honors Sophomore Summer Apprenticeship
-        time: 1996
+      **Databases:** SQL Server, MySQL, PostgreSQL, Cosmos DB, CouchDB, MS Access
 
-honors:
-    title: Honors &amp; Awards
-    info:
-      - name: National Merit Scholar
-        time: 1992 - 1995
-      - name: University of Wisconsin Medical Scholar
-        time: 1995 - 2000
-      - name: University of Wisconsin Dean's List (6 out of 10 semesters)
-        time: 1995 - 2000
-      - name: Phi Beta Kappa Honor Society
-        time: 1998 - 2000
-      - name: Phi Kappa Phi Honor Society
-        time: 1997 - 2000
-      - name: Golden Key National Honor Society
-        time: 1997 - 2000 
-      - name: Boy Scout Eagle Award
-        time: 1991
+#strengths:
+#    title: Strengths
+#    info:
+#      - name: Strong problem solving and research skills.
+#      - name: Strong interdisciplinary background in both biological and physical sciences.
+#      - name: Intense curiosity and appetite for knowledge.
+#      - name: Comfortable in unstructured environments where initiative and creativity are encouraged.
 
+#grants:
+#    title: Grants Received
+#    info:
+#      - name: Computation and Informatics in Biology and Medicine Training Program Fellowship
+#        time: 2002 - 2005
+#      - name: University of Wisconsin Medical Scholars Training Program Fellowship
+#        time: 2000 - 2001
+#      - name: Barry M. Goldwater Scholarship
+#        time: 1997 - 1999
+#      - name: Howard Hughes Scholars Fellowship (declined)
+#        time: 1997
+#      - name: Letters and Science Honors Sophomore Summer Apprenticeship
+#        time: 1996
+
+#honors:
+#    title: Honors &amp; Awards
+#    info:
+#      - name: National Merit Scholar
+#        time: 1992 - 1995
+#      - name: University of Wisconsin Medical Scholar
+#        time: 1995 - 2000
+#      - name: University of Wisconsin Dean's List (6 out of 10 semesters)
+#        time: 1995 - 2000
+#      - name: Phi Beta Kappa Honor Society
+#        time: 1998 - 2000
+#      - name: Phi Kappa Phi Honor Society
+#        time: 1997 - 2000
+#      - name: Golden Key National Honor Society
+#        time: 1997 - 2000 
+#      - name: Boy Scout Eagle Award
+#        time: 1991
