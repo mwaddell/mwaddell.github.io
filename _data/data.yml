@@ -332,25 +332,143 @@ oss:
 
 publications:
     title: Publications
-#    intro: |
-#      You can list your publications in this section. Lorem ipsum dolor sit
-#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#      bibendum fringilla a eu lectus.
-#    papers:
-#      - title: The Art of Computer Programming
-#        link: "#"
-#        authors: Donald E. Knuth
-#        conference: Addison-Wesley, 1968
-#
-#      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-#        link: "#"
-#        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-#        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-#
-#      - title: A syntax directed compiler for Algol 60
-#        link: "#"
-#        authors: Edgar T. Irons
-#        conference: "Comm. ACM 4 (1961), 51–55"
+#    intro: Intro
+    papers:
+      - title: A Syndrome Definition Validation Approach for Zika Virus
+        link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oL8xDzMAAAAJ&sortby=pubdate&citation_for_view=oL8xDzMAAAAJ:ULOm3_A8WrAC"
+        authors: D Rumoro, S Shah, MM Hallock, GS Gibbs, G Trenholme, M Waddell
+        conference: Online Journal of Public Health Informatics 9(1)
+        year: 2017
+      - title: Utility of Natural Language Processing for Clinical Quality Measures Reporting
+        link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oL8xDzMAAAAJ&sortby=pubdate&citation_for_view=oL8xDzMAAAAJ:YOwf2qJgpHMC"
+        authors: DP Rumoro, SC Shah, GS Gibbs, MM Hallock, GM Trenholme, MJ Waddell
+        conference: Online Journal of Public Health Informatics 9(1)
+        year: 2017
+      - title: Relationship Between Baseline Influenza-like Illness Rates And Healthcare Settings
+        link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oL8xDzMAAAAJ&sortby=pubdate&citation_for_view=oL8xDzMAAAAJ:WF5omc3nYNoC"
+        authors: DP Rumoro, SC Shah, GS Gibbs, MM Hallock, GM Trenholme, MJ Waddell
+        conference: Online Journal of Public Health Informatics 9(1)
+        year: 2017
+      - title: Natural Language Processing and Technical Challenges of Influenza-Like Illness Surveillance
+        link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oL8xDzMAAAAJ&sortby=pubdate&citation_for_view=oL8xDzMAAAAJ:hqOjcs7Dif8C"
+        authors: DP Rumoro, GS Gibbs, SC Shah, MM Hallock, GM Trenholme, MW Waddell, JP Bernstein
+        conference: Online Journal of Public Health Informatics 8(1)
+        year: 2016
+      - title: Which Sections of Electronic Medical Records Are Most Relevant for Real-Time Surveillance of Influenza-like Illness?
+        link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oL8xDzMAAAAJ&sortby=pubdate&citation_for_view=oL8xDzMAAAAJ:eQOLeE2rZwMC"
+        authors: DP Rumoro, GS Gibbs, SC Shah, MM Hallock, GM Trenholme, MW Waddell, JP Bernstein
+        conference: Online Journal of Public Health Informatics 8(1)
+        year: 2016
+      - title: The Impact of Documentation Style on Influenza-Like Illness Rates in the Emergency Department
+        link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oL8xDzMAAAAJ&sortby=pubdate&citation_for_view=oL8xDzMAAAAJ:qjMakFHDy7sC"
+        authors: DP Rumoro, GS Gibbs, SC Shah, MM Hallock, GM Trenholme, MW Waddell, JP Bernstein
+        conference: Online Journal of Public Health Informatics 8(1)
+        year: 2016
+      - title: "Clinical predictors for laboratory-confirmed influenza infections: exploring case definitions for influenza-like illness"
+        link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oL8xDzMAAAAJ&sortby=pubdate&citation_for_view=oL8xDzMAAAAJ:u5HHmVD_uO8C"
+        authors: SC Shah, DP Rumoro, MM Hallock, GM Trenholme, GS Gibbs, JC Silva, MJ Waddell
+        conference: Infection Control &amp Hospital Epidemiology 36(3), 241-248
+        year: 2015
+      - title: A Syndrome Definition Validation Approach for Ebola Virus Disease
+        link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oL8xDzMAAAAJ&sortby=pubdate&citation_for_view=oL8xDzMAAAAJ:9yKSN-GCB0IC"
+        authors: D Rumoro, S Shah, M Hallock, G Gibbs, G Trenholme, MJ Waddell
+        conference: Online Journal of Public Health Informatics 7(1)
+        year: 2015
+      - title: Creating a local geographic influenza-like illness activity report
+        link:  "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oL8xDzMAAAAJ&sortby=pubdate&citation_for_view=oL8xDzMAAAAJ:_FxGoFyzp5QC"
+        authors:  Rumoro, S Shah, G Trenholme, G Gibbs, M Hallock, MJ Waddell
+        conference: Online Journal of Public Health Informatics 7(1)
+        year: 2015
+      - title: The Impact of Weather on Influenza-like Illness Rates in Chicago
+        link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oL8xDzMAAAAJ&sortby=pubdate&citation_for_view=oL8xDzMAAAAJ:W7OEmFMy1HYC"
+        authors: S Shah, D Rumoro, G Trenholme, G Gibbs, M Hallock, MJ Waddell
+        conference: Online Journal of Public Health Informatics 7(1)
+        year: 2015
+      - title: Technical Challenges of Syndromic Surveillance System Deployment in a Health Information Exchange
+        link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oL8xDzMAAAAJ&sortby=pubdate&citation_for_view=oL8xDzMAAAAJ:3fE2CSJIrl8C"
+        authors: JC Silva, C Cox, DP Rumoro, SC Shah, MM Hallock, GS Gibbs, GM Trenholme, MJ Waddell
+        conference: Online Journal of Public Health Informatics 6(1)
+        year: 2014
+      - title: "Comparing the accuracy of syndrome surveillance systems in detecting influenza-like illness: GUARDIAN vs. RODS vs. electronic medical record reports"
+        link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oL8xDzMAAAAJ&sortby=pubdate&citation_for_view=oL8xDzMAAAAJ:ufrVoPGSRksC"
+        authors: JC Silva, SC Shah, DP Rumoro, JD Bayram, MM Hallock, GS Gibbs, MJ Waddell
+        conference: Artificial Intelligence in Medicine 59(3), 169-174
+        year: 2013
+      - title: "Why does Influenza-Like Illness surveillance miss true influenza cases in the emergency department?: Implications for health care providers"
+        link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oL8xDzMAAAAJ&sortby=pubdate&citation_for_view=oL8xDzMAAAAJ:MXK_kJrjxJIC"
+        authors: DP Rumoro, MM Hallock, J Silva, SC Shah, G Gibbs, GM Trenholme, MJ Waddell
+        conference: Annals of Emergency Medicine 62(4), S75
+        year: 2013
+      - title: A Novel Syndrome Definition Validation Approach for Rarely Occurring Diseases
+        link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oL8xDzMAAAAJ&sortby=pubdate&citation_for_view=oL8xDzMAAAAJ:2osOgNQ5qMEC"
+        authors: JC Silva, SC Shah, DP Rumoro, MM Hallock, GS Gibbs, MJ Waddell
+        conference: Online Journal of Public Health Informatics 5(1)
+        year: 2013
+      - title: The impact of alternative diagnoses on the utility of influenza-like illness case definition to detect the 2009 H1N1 pandemic.
+        link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oL8xDzMAAAAJ&sortby=pubdate&citation_for_view=oL8xDzMAAAAJ:IjCSPb-OGe4C"
+        authors: DP Rumoro, JD Bayram, JC Silva, SC Shah, MM Hallock, GS Gibbs, MJ Waddell
+        conference: American Journal of Disaster Medicine 7(2), 105-110
+        year: 2012
+      - title: Disease profile development methodology for syndromic surveillance of biological threat agents
+        link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oL8xDzMAAAAJ&sortby=pubdate&citation_for_view=oL8xDzMAAAAJ:KlAtU1dfN6UC"
+        authors: J Silva, D Rumoro, M Hallock, S Shah, G Gibbs, M Waddell, K Thomas
+        conference: Emerging Health Threats Journal 4, 11129
+        year: 2011
+      - title: The Impact of Specific Surveillance System Methodology on Influenza-Like Illness Prevalence Rates
+        link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oL8xDzMAAAAJ&sortby=pubdate&citation_for_view=oL8xDzMAAAAJ:Tyk-4Ss8FVUC"
+        authors: DP Rumoro, SC Shah, GS Gibbs, JC Silva, JD Bayram, MM Hallock, MJ Waddell
+        conference: Annals of Emergency Medicine 56(3), S6-S7
+        year: 2010
+      - title: Application of natural language parsers to syndromic surveillance
+        link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oL8xDzMAAAAJ&sortby=pubdate&citation_for_view=oL8xDzMAAAAJ:8k81kl-MbHgC"
+        authors: MJ Waddell, CR Meraz, JC Silva, DP Rumoro
+        conference: Adv Dis Surv. v5 71
+        year: 2008
+      - title: "Predicting cancer susceptibility from single-nucleotide polymorphism data: a case study in multiple myeloma"
+        link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oL8xDzMAAAAJ&sortby=pubdate&citation_for_view=oL8xDzMAAAAJ:d1gkVwhDpl0C"
+        authors: M Waddell, D Page, J Shaughnessy Jr
+        conference: Proceedings of the 5th international workshop on Bioinformatics, 21-28
+        year: 2005
+      - title: "Evaluation of multiple models to distinguish closely related forms of disease using DNA microarray data: an application to multiple myeloma"
+        link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oL8xDzMAAAAJ&sortby=pubdate&citation_for_view=oL8xDzMAAAAJ:YsMSGLbcyi4C"
+        authors: J Hardin, M Waddell, CD Page, F Zhan, B Barlogie, J Shaughnessy, JJ Crowley
+        conference: Statistical applications in genetics and molecular biology 3(1)
+        year: 2004
+      - title: Using machine learning to design and interpret gene-expression microarrays
+        link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oL8xDzMAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=oL8xDzMAAAAJ:Zph67rFs4hoC"
+        authors: M Molla, M Waddell, D Page, J Shavlik
+        conference: AI Magazine 25(1), 23-23
+        year: 2004
+      - title: Toward the development of diagnostic models capable of distinguishing multiple myeloma, MGUS, and normal plasma cells using global gene expression profiles
+        link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oL8xDzMAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=oL8xDzMAAAAJ:LkGwnXOMwfcC"
+        authors: J Hardin, M Waddell, Z Cheng
+        conference: Stat Appl Genet Mol Biol 3(1), 10
+        year: 2004
+      - title: Toward automatic management of embarrassingly parallel applications
+        link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oL8xDzMAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=oL8xDzMAAAAJ:UeHWp8X0CEIC"
+        authors: I Dutra, D Page, VS Costa, J Shavlik, M Waddell
+        conference: "Euro-Par 2003 Parallel Processing: 9th International Euro-Par Conference Klagenfurt, Austria, August 26-29, 2003 Proceedings 9, 509-516"
+        year: 2003
+      - title: Toward the development of diagnostic models capable of distinguishing multiple myeloma (MM), monoclonal gammopathy of undetermined significance (MGUS), and normal plasma cells using global gene expression profiles.
+        link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oL8xDzMAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=oL8xDzMAAAAJ:0EnyYjriUFMC"
+        authors: J Hardin, M Waddell, C Jie, D Page, FH Zhan, J Crowley, B Barlogie, J Shaughnessy
+        conference: Blood 100(11), 102A-103A
+        year: 2002
+      - title: "Comparative Data Mining for Microarrays: A Case Study Based on Multiple Myeloma"
+        link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oL8xDzMAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=oL8xDzMAAAAJ:zYLM7Y9cAGgC"
+        authors: D Page, F Zhan, J Cussens, M Waddell, J Hardin, B Barlogie
+        conference: University of Wisconsin Computer Sciences Department Symposium
+        year: 2002
+      - title: "Collagen stability: insights from NMR spectroscopic and hybrid density functional computational investigations of the effect of electronegative substituents on prolyl ring conformations"
+        link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oL8xDzMAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=oL8xDzMAAAAJ:UebtZRa9Y70C"
+        authors: ML DeRider, SJ Wilkens, MJ Waddell, LE Bretscher, F Weinhold, RT Raines, JL Markley
+        conference: Journal of the American Chemical Society 124(11), 2497-2505
+        year: 2002
+      - title: Theoretical Analysis of the Basis of Collagen Stability
+        link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oL8xDzMAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=oL8xDzMAAAAJ:kNdYIx-mwKoC"
+        authors: MJ Waddell, RT Raines
+        conference: University of Wisconsin Biochemistry Department Symposium
+        year: 2000
 
 skills:
     title: Technical Expertise

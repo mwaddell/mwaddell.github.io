@@ -210,12 +210,18 @@ p {
   }
   .job-title,
   .degree,
-  .cert-title{
+  .cert-title {
     color: $text-color;
     font-size: 16px;
     margin: 0 100px 0 0;
     font-weight: 500;
     flex: 75%;
+  }
+  .project-title {
+      margin: 0 50px 0 0;
+  }
+  .client {
+    margin: 0 150px 0 0;
   }
   .time,
   .cert-url,
