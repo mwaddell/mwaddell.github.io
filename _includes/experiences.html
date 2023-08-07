@@ -10,10 +10,18 @@
   </h2>
 
   {% if experiences.intro %}
-  <div class="intro">
+  <div class="intro no-print">
       <p>{{ experiences.intro }}</p>
   </div><!--//intro-->
   {% endif %}
+
+  {% if experiences.print %}
+  <div class="intro print-only">
+      <p>{{ experiences.print }}</p>
+  </div><!--//print-->
+  {% endif %}
+
+  <div class="experiences-items">
 
   {% for experience in experiences.info %}
   <div class="item">
@@ -47,6 +55,8 @@
 
   </div><!--//item-->
   {% endfor %}
+
+  </div>
 
 </section><!--//section-->
 {% endif %}

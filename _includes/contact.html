@@ -32,9 +32,16 @@
       <a href="https://t.me/{{ sidebar.telegram }}" target="_blank"><i class="fab fa-telegram"></i>{{sidebar.telegram}}</a>
     </li>
     {% endif %}
+
+    {% if sidebar.pdf %}
+    <li class="pdf hidden-print">
+      <a href="{{ sidebar.pdf }}" target="_blank"><i class="fas fa-file-pdf"></i>Resume PDF</a>
+    </li>
+    {% endif %}
+
   </ul>
 
-  <div class="contact-list contact-icons">
+  <div class="contact-list contact-icons hidden-print">
     {% if sidebar.linkedin %}
     <span class="linkedin">
       <a href="https://linkedin.com/in/{{ sidebar.linkedin }}" target="_blank"><i class="fab fa-linkedin"></i></a>
@@ -96,13 +103,5 @@
     {% endif %}
 
   </div>
-
-  {% if sidebar.pdf %}
-  <ul class="list-unstyled contact-list">
-    <li class="pdf"><i class="fas fa-file-pdf"></i>
-      <a href="{{ sidebar.pdf }}" target="_blank">Resume PDF</a>
-    </li>
-  </ul>
-  {% endif %}
 
 </div><!--//contact-container-->

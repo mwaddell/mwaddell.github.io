@@ -1,3 +1,50 @@
+.print-only {
+    display: none;
+}
+
+.print-layout .print-only {
+    display: unset;
+}
+
+.print-layout .no-print {
+    display: none;
+}
+
+.print-layout .details {
+    display: none;
+}
+
+.print-layout .experiences-section .details {
+    display: block;
+    margin-left: 1em;
+}
+
+.print-layout .section-title {
+    margin-bottom: 10px;
+}
+
+.print-layout .educations-section .item {
+    margin-bottom: 16px;
+}
+
+.print-layout .section {
+    margin-bottom: 22px;
+}
+
+.experiences-items .item {
+    display: none;
+}
+
+.experiences-items .item:first-of-type {
+    display: block;
+}
+
+.more-info {
+    border-top: 1px solid #666;
+    padding-top: 1ex;
+    text-align: center;
+}
+
 @media print
    {
     @page {
@@ -27,6 +74,9 @@
         float: right;
         width: 40%;
         -webkit-print-color-adjust: exact; 
+    }
+    .contact-container {
+        padding-top: 0 !important;
     }
 
     .remove-container.container-block {

@@ -25,7 +25,7 @@ sidebar:
     codewars:
     goodreads: # 2861448-michael-waddell
     wordpress: michaeljwaddell
-    pdf: # TODO: Add github action to create PDF of /print
+    pdf: Waddell_Michael_MS_CSSLP.pdf
 
 career-profile:
     title: Consulting Services
@@ -60,6 +60,7 @@ education:
 
 experiences:
     title: Experiences
+    print: I design secure software architectures and use machine learning to model and analyze large and complex data sets.
     info:
       - role: Senior Artificial Intelligence Software Engineer, Secure Software Architect, Director of Information Technology
         time: 2006 - present
@@ -332,7 +333,7 @@ oss:
 
 publications:
     title: Publications
-#    intro: Intro
+    print: Over 25 articles focused on the advancement of Artificial Intelligence in Disease Diagnosis and Surveillance published in academic journals.
     papers:
       - title: A Syndrome Definition Validation Approach for Zika Virus
         link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oL8xDzMAAAAJ&sortby=pubdate&citation_for_view=oL8xDzMAAAAJ:ULOm3_A8WrAC"
@@ -480,12 +481,16 @@ skills:
     summary: |
       **Languages:** TypeScript, C#, Python, JavaScript, HTML/CSS, Java, SQL, Bash/Shell
 
-      **Frameworks:** React, ASP.NET, Node.js, jQuery, Azure Functions, Docker, Scikit-Learn, Electron
+      **Frameworks:** React, ASP.NET, Node.js, jQuery, Azure Functions, Docker, Scikit-Learn
 
       **Databases:** SQL Server, MySQL, PostgreSQL, Cosmos DB, CouchDB, MS Access
+
+more-info: |
+    Visit **https://waddellnet.com** for my complete list of experiences, projects, and publications.
+
 # Additional Skills
 # Languages: C/C++, Lisp, Perl, PHP, Prolog, XSLT, R
-# Frameworks: CesiumJS, ESRI ArcGIS, MVC.NET, Script#, SharePoint
+# Frameworks: CesiumJS, ESRI ArcGIS, MVC.NET, Script#, SharePoint, Electron
 # Databases: MongoDB
 
 #strengths:

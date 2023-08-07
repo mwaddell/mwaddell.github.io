@@ -16,8 +16,14 @@
   </div><!--//intro-->
   {% endif %}
 
+  {% if publications.print %}
+  <div class="intro print-only">
+    {{ publications.print | markdownify }}
+  </div><!--//intro-->
+  {% endif %}
+
   {% for publication in publications.papers %}
-  <div class="item">
+  <div class="item no-print">
 
     <div class="meta">
 
