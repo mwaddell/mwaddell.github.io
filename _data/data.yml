@@ -57,6 +57,96 @@ education:
         details: |
           - Research Focus: Using computational and quantum chemical approaches to understand the structural and energetic origins of the high stability of collagen molecules;
           - Advisor: Dr. Ronald T. Raines
+    coursework:
+      - field: Computer Sciences
+        classes: |
+          - Computer Sciences 302: Introduction to Programming
+          - Computer Sciences 367: Introduction to Data Structures
+          - Computer Sciences 354: Machine Organization and Basic Systems
+          - Computer Sciences 412: Introduction to Numerical Methods
+          - Computer Sciences 540: Introduction to Artificial Intelligence
+          - Computer Sciences 760: Machine Learning
+          - Computer Sciences 731: Advanced Artificial Intelligence
+          - Computer Sciences 576: Introduction to Bioinformatics
+          - Computer Sciences 776: Advanced Bioinformatics
+          - Computer Sciences 564: Database Management Systems: Design and Implementation
+          - Computer Sciences 784: Data Models and Languages
+          - Computer Sciences 536: Introduction to Programming Languages and Compilers
+          - Computer Sciences 538: Introduction to the Theory and Design of Programming Languages
+          - Computer Sciences 704: Principles of Programming Languages
+          - Computer Sciences 537: Introduction to Operating Systems
+      - field: Mathematics and Statistics
+        classes: |
+          - Mathematics 221: Calculus and Analytic Geometry 1
+          - Mathematics 222: Calculus and Analytic Geometry 2
+          - Mathematics 223: Calculus and Analytic Geometry 3
+          - Mathematics 319: Techniques in Ordinary Differential Equations
+          - Mathematics 521: Advanced Calculus
+          - Mathematics 340: Elementary Matrix and Linear Algebra
+          - Mathematics 541: Modern Algebra
+          - Mathematics 551: Elementary Topology
+          - Mathematics 431: Introduction to the Theory of Probability
+          - Statistics 571: Statistical Methods for Bioscience 1
+      - field: Physics and Chemistry
+        classes: |
+          - Physics 207: General Physics 1
+          - Physics 208: General Physics 2
+          - Physics 241: Introduction to Modern Physics
+          - Chemistry 103: General Chemistry
+          - Chemistry 115: Chemical Principles 1
+          - Chemistry 116: Chemical Principles 2
+          - Chemistry 343/344: Introductory Organic Chemistry with Lab
+          - Chemistry 345: Intermediate Organic Chemistry
+          - Chemistry 565: Biophysical Chemistry
+          - Chemistry 562/563: Physical Chemistry 2 with Lab
+      - field: Biology, Biochemistry and Genetics
+        classes: |
+          - Biocore 301: Evolution, Ecology and Genetics
+          - Biocore 303/304: Cellular Biology with Lab
+          - Biocore 323/324: Organismal Biology with Lab
+          - Biocore 333: Biological Interactions
+          - Biochemistry 507: General Biochemistry 1
+          - Biochemistry 508: General Biochemistry 2
+          - Biochemistry 651: Biochemical Methods
+          - Biomolecular Chemistry 704: Comprehensive Human Biochemistry
+          - Genetics 721: Medical Genetics
+      - field: Human Biology and Medicine
+        classes: |
+          - Anatomy 711: Gross Human Anatomy
+          - Anatomy 710: Histology and Organology
+          - Medical Sciences 731: Neuroscience
+          - Physiology 720: Principles of Human Physiology
+          - Pathology 703: General Pathology
+          - Medical Sciences 800: Patient, Doctor and Society
+          - Medical Sciences 801: Clinical Medicine and Practice
+      - field: Humanities and Social Sciences
+        classes: |
+          - Music 054: Choir
+          - Music 103: Introduction to Music Cultures of the World
+          - Music 113: Music in Performance
+          - Integrated Liberal Studies 150: Ways of Knowing
+          - Folklore 210: The African Storyteller
+          - English 219: Shakespearean Drama
+          - Integrated Liberal Studies 254: Literature and Science
+          - Spanish 101: First Year Spanish 1
+          - Spanish 102: First Year Spanish 2
+          - Spanish 203: Third Semester Spanish
+          - Spanish 204: Fourth Semester Spanish
+          - Spanish 225: Third Year Language Practice and Grammar Review
+          - Spanish 226: Third Year Language Practice with Emphasis on Written Expression
+          - Psychology 281: Honors Introduction to Psychology
+          - Educational Psychology 301: Human Abilities and Learning
+          - Econ 101: Principles of Microeconomics
+          - Econ 102: Principles of Macroeconomics
+      - field: Physical Education
+        classes: |
+          - Physical Education 127: Bowling 1
+          - Physical Education 132: Weight Training
+          - Physical Education 155: Badminton 1
+          - Physical Education 201: Intermediate Swimming
+          - Physical Education 238: Golf 2
+          - Dance 031: Modern Jazz Dance
+          - Dance 1186: Jazz Dance
 
 experiences:
     title: Experiences
@@ -304,6 +394,13 @@ projects:
 #        time: 2007
 #        client: InterGenetics
 #        clienturl: intergenetics.com
+      - title: Colleague
+        role: Senior Developer
+        time: 2001 - 2006
+        client: University of Wisconsin-Madison, Department of Biostatistics and Medical Informatics
+        clienturl: biostat.wisc.edu
+        tagline: Colleague is an interactive, web-based, expert-collaborative machine learning system designed to mimic interactions between experts within a field.  The goal of the project is to develop a system wherein researchers, who may or may not be knowledgeable about data mining, can submit a dataset, along with their own ideas and intuitions, and Colleague will use this knowledge to devise a number of new theories about the data.  Once Colleague has developed a set of theories, the researcher can use his/her own knowledge about the data to provide the system with new insights to help it create more accurate theories.  Comprehensibility of the theories is of paramount concern since the researcher should be able to interact with Colleague as if it is a "colleague," not a computer program.
+        funding: The development of Colleague is supported in part by a training grant from the National Library of Medicine (Grant No. 5T15LM007359).
 
 oss:
     title: OSS Contributions
