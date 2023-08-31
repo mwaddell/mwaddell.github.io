@@ -216,6 +216,21 @@ experiences:
 #        company: FlipSide Printing, L.L.C.
 #        manager: Daniel C. Kahl
 #        details: Designed and maintained database applications using Microsoft Access and Visual Basic. 
+#      - role: Research Assistant
+#        time: 2000
+#        company: University of Wisconsin-Madison, Department of Computer Sciences
+#        manager: Dr. Jude Shavlik
+#        details: 6-week "rotation"
+#      - role: Research Assistant
+#        time: 2000
+#        company: University of Wisconsin-Madison, Department of Computer Sciences
+#        manager: Dr. Mark Craven
+#        details: 6-week "rotation"
+#      - role: Research Assistant
+#        time: 2000
+#        company: University of Wisconsin-Madison, Department of Industrial and Systems Engineering
+#        manager: Patricia Brennan
+#        details: 6-week "rotation"
       - role: Research Assistant
         time: 2000
         company: University of Wisconsin-Madison, Department of Mathematics
