@@ -159,12 +159,12 @@ experiences:
         manager: Mikl&oacute;s Ferenczy
         details: |
           Designing secure software architectures and leading development teams in the creation of custom software to leverage geospatial analysis, artificial intelligence, and statistical analysis of large data warehouses.  Managing the internal IT infrastructure supporting development, build, integration, staging and production environments.  
-#      - role: Data Science Consultant
-#        time: 2023 - present
-#        company: American Association of Nurse Anesthesiology
-#        companyurl: aana.com
-#        details: |
-#          Academic research, statistical data analysis, visualization, and manuscript writing.
+      - role: Data Science Consultant
+        time: 2023 - present
+        company: American Association of Nurse Anesthesiology
+        companyurl: aana.com
+        details: |
+          Performing statistical data analysis using SAS, PowerBI, Scikit-Learn, and Microsoft Excel.  Creating charts, graphs, and maps to visualize patterns in complex datasets.  Drafting and editing manuscripts to support academic research.
       - role: Data &amp; Impact Advisory Panel
         time: 2013 - 2018
         company: Ingenuity Incorporated
