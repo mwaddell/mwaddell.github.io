@@ -428,6 +428,9 @@ oss:
       - title: Dependabot Fetch Metadata
         link: "https://github.com/dependabot/fetch-metadata"
         tagline: Extract information about the dependencies being updated by a Dependabot-generated PR.
+      - title: MSSQL Suite
+        link: "https://github.com/potatoqualitee/mssqlsuite"
+        tagline: A GitHub Action that automatically install SQL Server suite of tools
       - title: Dependabot Core
         link: "https://github.com/dependabot/dependabot-core"
         tagline: Dependabot's core logic for creating update PR's.
