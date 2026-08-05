@@ -426,7 +426,7 @@ oss:
 #    intro: My open-source work focuses on developing and advancing open-source technologies that support the secure software lifecycle.
     contributions:
       - title: Reusable Accessible Mapping Platform (RAMP) 4
-        link: https://github.com/ramp4-pcar4
+        link: "https://github.com/ramp4-pcar4"
         tagline: The organization and repos supporting the Reusable Accessible Mapping Platform version 4, developed by Environment and Climate Change Canada
       - title: Dependabot Fetch Metadata
         link: "https://github.com/dependabot/fetch-metadata"
