@@ -321,10 +321,6 @@ certifications:
           credentialname: IASO
           details: |
             An Information Assurance Security Officer in the United States Army is primarily responsible for the security and integrity of the information systems in his or her area of responsibility.
-#        - name: Microsoft Azure
-#          start: Working on
-#        - name: GitHub
-#          start: Working on
 
 projects:
     title: Projects
@@ -457,6 +453,11 @@ publications:
     title: Publications
     print: Over 25 articles focused on the advancement of Artificial Intelligence in Disease Diagnosis and Surveillance published in academic journals.
     papers:
+      - title: "From Policy to Practice: The Affordable Care Act's Impact on Anesthesia Provider Certified Registered Nurse Anesthetist Workforce Distribution"
+        link: "https://www.ovid.com/journals/nrsec/abstract/10.62116/nec.2026.44.4.216~from-policy-to-practice-the-affordable-care-acts-impact-on"
+        authors: MJ Waddell
+        conference: "Nursing Economic$ 44(4), 216-228"
+        year: 2026
       - title: A Syndrome Definition Validation Approach for Zika Virus
         link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oL8xDzMAAAAJ&sortby=pubdate&citation_for_view=oL8xDzMAAAAJ:ULOm3_A8WrAC"
         authors: D Rumoro, S Shah, MM Hallock, GS Gibbs, G Trenholme, M Waddell
