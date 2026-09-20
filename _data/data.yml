@@ -436,9 +436,9 @@ oss:
       - title: Dependabot Core
         link: "https://github.com/dependabot/dependabot-core"
         tagline: Dependabot's core logic for creating update PR's.
-#      - title: Geocoder
-#        link: "https://github.com/pangaeatech/geocoder"
-#        tagline: 
+      - title: Geocoder
+        link: "https://github.com/pangaeatech/geocoder"
+        tagline: A tool for managing geocoding of large datasets.
       - title: Salt2Type
         link: "https://github.com/pangaeatech/salt2type"
         tagline: A set of utilities to assist in migrating an existing codebase from Saltarelle to TypeScript
